@@ -1,5 +1,10 @@
+/* Lavet af Mikkel Sørensen
+Mikk4211@edu.easj.dk
+EASJ Næstved, DAT 1 */
+
 public class Main {
 
+   
     public static void main(String[] args) {
 
        // Definerer fahrenheit som en double - fahrenheit kan derfor være et kommatal.
